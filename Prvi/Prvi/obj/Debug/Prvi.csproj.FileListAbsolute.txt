@@ -1,0 +1,8 @@
+D:\PRO1\Prvi\Prvi\bin\Debug\Prvi.exe.config
+D:\PRO1\Prvi\Prvi\bin\Debug\Prvi.exe
+D:\PRO1\Prvi\Prvi\bin\Debug\Prvi.pdb
+D:\PRO1\Prvi\Prvi\obj\Debug\Prvi.csproj.AssemblyReference.cache
+D:\PRO1\Prvi\Prvi\obj\Debug\Prvi.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Prvi\Prvi\obj\Debug\Prvi.csproj.CoreCompileInputs.cache
+D:\PRO1\Prvi\Prvi\obj\Debug\Prvi.exe
+D:\PRO1\Prvi\Prvi\obj\Debug\Prvi.pdb
