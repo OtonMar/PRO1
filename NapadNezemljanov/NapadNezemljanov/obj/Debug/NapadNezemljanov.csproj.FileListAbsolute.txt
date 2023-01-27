@@ -1,0 +1,16 @@
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\bin\Debug\NapadNezemljanov.exe.config
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\bin\Debug\NapadNezemljanov.exe
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\bin\Debug\NapadNezemljanov.pdb
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov.csproj.AssemblyReference.cache
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\MainWindow.g.cs
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\App.g.cs
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov_MarkupCompile.cache
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov_MarkupCompile.lref
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\MainWindow.baml
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov.g.resources
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov.Properties.Resources.resources
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov.csproj.GenerateResource.cache
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov.csproj.CoreCompileInputs.cache
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov.exe
+D:\PRO1\NapadNezemljanov\NapadNezemljanov\obj\Debug\NapadNezemljanov.pdb
