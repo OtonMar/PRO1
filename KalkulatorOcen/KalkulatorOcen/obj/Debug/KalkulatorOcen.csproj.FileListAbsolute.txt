@@ -1,0 +1,8 @@
+D:\PRO1\KalkulatorOcen\KalkulatorOcen\bin\Debug\KalkulatorOcen.exe.config
+D:\PRO1\KalkulatorOcen\KalkulatorOcen\bin\Debug\KalkulatorOcen.exe
+D:\PRO1\KalkulatorOcen\KalkulatorOcen\bin\Debug\KalkulatorOcen.pdb
+D:\PRO1\KalkulatorOcen\KalkulatorOcen\obj\Debug\KalkulatorOcen.csproj.AssemblyReference.cache
+D:\PRO1\KalkulatorOcen\KalkulatorOcen\obj\Debug\KalkulatorOcen.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\KalkulatorOcen\KalkulatorOcen\obj\Debug\KalkulatorOcen.csproj.CoreCompileInputs.cache
+D:\PRO1\KalkulatorOcen\KalkulatorOcen\obj\Debug\KalkulatorOcen.exe
+D:\PRO1\KalkulatorOcen\KalkulatorOcen\obj\Debug\KalkulatorOcen.pdb
