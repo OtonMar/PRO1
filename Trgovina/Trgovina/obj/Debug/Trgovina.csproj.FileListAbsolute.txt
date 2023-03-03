@@ -1,0 +1,8 @@
+D:\PRO1\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.AssemblyReference.cache
+D:\PRO1\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Trgovina\Trgovina\obj\Debug\Trgovina.csproj.CoreCompileInputs.cache
+D:\PRO1\Trgovina\Trgovina\bin\Debug\Trgovina.exe.config
+D:\PRO1\Trgovina\Trgovina\bin\Debug\Trgovina.exe
+D:\PRO1\Trgovina\Trgovina\bin\Debug\Trgovina.pdb
+D:\PRO1\Trgovina\Trgovina\obj\Debug\Trgovina.exe
+D:\PRO1\Trgovina\Trgovina\obj\Debug\Trgovina.pdb
