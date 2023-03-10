@@ -1,0 +1,8 @@
+D:\PRO1\EUPrvenstvo\EUPrvenstvo\bin\Debug\EUPrvenstvo.exe.config
+D:\PRO1\EUPrvenstvo\EUPrvenstvo\bin\Debug\EUPrvenstvo.exe
+D:\PRO1\EUPrvenstvo\EUPrvenstvo\bin\Debug\EUPrvenstvo.pdb
+D:\PRO1\EUPrvenstvo\EUPrvenstvo\obj\Debug\EUPrvenstvo.csproj.AssemblyReference.cache
+D:\PRO1\EUPrvenstvo\EUPrvenstvo\obj\Debug\EUPrvenstvo.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\EUPrvenstvo\EUPrvenstvo\obj\Debug\EUPrvenstvo.csproj.CoreCompileInputs.cache
+D:\PRO1\EUPrvenstvo\EUPrvenstvo\obj\Debug\EUPrvenstvo.exe
+D:\PRO1\EUPrvenstvo\EUPrvenstvo\obj\Debug\EUPrvenstvo.pdb

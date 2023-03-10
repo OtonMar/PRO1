@@ -1,0 +1,8 @@
+D:\PRO1\minolovecKonzola\minolovecKonzola\bin\Debug\minolovecKonzola.exe.config
+D:\PRO1\minolovecKonzola\minolovecKonzola\bin\Debug\minolovecKonzola.exe
+D:\PRO1\minolovecKonzola\minolovecKonzola\bin\Debug\minolovecKonzola.pdb
+D:\PRO1\minolovecKonzola\minolovecKonzola\obj\Debug\minolovecKonzola.csproj.AssemblyReference.cache
+D:\PRO1\minolovecKonzola\minolovecKonzola\obj\Debug\minolovecKonzola.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\minolovecKonzola\minolovecKonzola\obj\Debug\minolovecKonzola.csproj.CoreCompileInputs.cache
+D:\PRO1\minolovecKonzola\minolovecKonzola\obj\Debug\minolovecKonzola.exe
+D:\PRO1\minolovecKonzola\minolovecKonzola\obj\Debug\minolovecKonzola.pdb
